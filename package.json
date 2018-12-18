@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Constructor Word Guess Advance JS Assignment week 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahmed1035/Constructor-Word-Guess.git"
+  },
+  "author": "syeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahmed1035/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/sahmed1035/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
